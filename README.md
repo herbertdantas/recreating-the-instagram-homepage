@@ -2,4 +2,4 @@
  Recriando a página inicial do Instragram
 
  # Imagem do resultado do Desafio (Navegador)
- <img src="./img/resultado.png">
+ '[Imagem de Resultado](https://github.com/herbertdantas/recreating-the-instagram-homepage/blob/main/img/resultado.PNG)
